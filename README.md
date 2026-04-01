@@ -6,7 +6,7 @@
 
 ## 🖼️ Preview
 
-![Gym Website Preview](./assets/preview.png)
+![Gym Website Preview](output.png)
 
 ---
 
